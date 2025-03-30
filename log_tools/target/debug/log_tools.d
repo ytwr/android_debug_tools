@@ -1,0 +1,1 @@
+/home/wyt/repo/tools/android_debug_tools/log_tools/target/debug/log_tools: /home/wyt/repo/tools/android_debug_tools/log_tools/src/main.rs

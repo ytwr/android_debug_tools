@@ -1,0 +1,10 @@
+/home/wyt/repo/tools/android_debug_tools/log_tools/target/debug/deps/libcrc32fast-2fe1637449488279.rmeta: /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/lib.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/baseline.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/combine.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/specialized/mod.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/table.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/specialized/pclmulqdq.rs
+
+/home/wyt/repo/tools/android_debug_tools/log_tools/target/debug/deps/crc32fast-2fe1637449488279.d: /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/lib.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/baseline.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/combine.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/specialized/mod.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/table.rs /home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/specialized/pclmulqdq.rs
+
+/home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/lib.rs:
+/home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/baseline.rs:
+/home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/combine.rs:
+/home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/specialized/mod.rs:
+/home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/table.rs:
+/home/wyt/.cargo/registry/src/mirrors.ustc.edu.cn-4affec411d11e50f/crc32fast-1.4.2/src/specialized/pclmulqdq.rs:
